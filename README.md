@@ -1,0 +1,1 @@
+# hydro-fungible-token-stx
